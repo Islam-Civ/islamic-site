@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Islamic Civilization</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      text-align: center;
+    }
+
+    header {
+      background-color: #008080;
+      color: white;
+      padding: 20px 0;
+    }
+
+    h1, h2 {
+      margin: 15px;
+    }
+
+    .section {
+      background-color: #fff;
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 900px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px #ccc;
+    }
+
+    img {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 8px;
+      margin: 10px 0;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    footer {
+      background-color: #ddd;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🌙 Islamic Civilization</h1>
+  <p>Learn about Islamic culture, Ramadan, prayer, and the Five Pillars of Islam</p>
+</header>
+
+<!-- 🕌 Famous Islamic Landmark -->
+<div class="section">
+  <h2>🏛️ Famous Islamic Landmark: The Kaaba</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kaaba_Masjid_Al-Haram_Mecca_Saudi_Arabia.jpg/640px-Kaaba_Masjid_Al-Haram_Mecca_Saudi_Arabia.jpg" alt="Kaaba">
+  <p>
+    The Kaaba is located in Mecca, Saudi Arabia. It is the holiest site in Islam and the direction Muslims face when they pray.
+  </p>
+</div>
+
+<!-- 🕋 The Five Pillars of Islam -->
+<div class="section">
+  <h2>🕋 The Five Pillars of Islam</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pilares_del_Islam.svg/512px-Pilares_del_Islam.svg.png" alt="Pillars of Islam">
+  <p>
+    The Five Pillars are the foundation of a Muslim's faith and practice:
+    <br><
+
+تمام! 🔥  
+دلوقتي هعملك كود موقع تعليمي جاهز فيه:
+
+✅ صور  
+✅ شرح كامل عن:  
+- أركان الإسلام  
+- رمضان  
+- أركان الصلاة  
+✅ باللغتين: **الإنجليزية + الإسبانية**
+
+وهيشتغل فورًا على GitHub Pages ✅
+
+---
+
+## ✅ انسخ الكود ده واحفظه كـ `index.html`:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Islamic Education</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      text-align: center;
+    }
+    header {
+      background-color: #008080;
+      color: white;
+      padding: 20px;
+    }
+    .section {
+      background-color: #fff;
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 900px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #ccc;
+    }
+    img {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+    h2 {
+      color: #008080;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    footer {
+      background-color: #ddd;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🌙 Islamic Education</h1>
+  <p>Learn about the Pillars of Islam, Ramadan, and Prayer in English and Spanish</p>
+</header>
+
+<!-- Section: Pillars of Islam -->
+<div class="section">
+  <h2>🕋 The Five Pillars of Islam (English)</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Pilares_del_Islam.svg" alt="Five Pillars">
+  <p>
+    1. Shahada – Faith: Believing in one God and that Muhammad is His messenger.<br>
+    2. Salah – Prayer: Performing 5 daily prayers facing Mecca.<br>
+    3. Zakat – Charity: Giving to the poor and needy.<br>
+    4. Sawm – Fasting: Fasting during the month of Ramadan.<br>
+    5. H
+
+تمام جدًا يا نجم! 🌟  
+دلوقتي هكملك الكود:
+
+✅ باللغة **الإنجليزية**  
+✅ مع الترجمة **بالعربية** تحت كل جزء  
+✅ يشمل: المعالم الإسلامية – أركان الإسلام – رمضان – أركان الصلاة  
+✅ ويشتغل على GitHub فورًا
+
+---
+
+## ✅ انسخ الكود كاملًا واحفظه كـ `index.html`:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Islamic Civilization</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      text-align: center;
+      direction: ltr;
+    }
+
+    header {
+      background-color: #008080;
+      color: white;
+      padding: 20px 0;
+    }
+
+    h1, h2 {
+      margin: 15px;
+    }
+
+    .section {
+      background-color: #fff;
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 900px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px #ccc;
+    }
+
+    img {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 8px;
+      margin: 10px 0;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    .ar {
+      direction: rtl;
+      text-align: right;
+      font-size: 16px;
+      margin-top: 10px;
+    }
+
+    footer {
+      background-color: #ddd;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🌙 Islamic Civilization | الحضارة الإسلامية</h1>
+  <p>Learn about Islam, its practices and its culture — تعرف على الإسلام وثقافته</p>
+</header>
+
+<!-- 🕋 Kaaba -->
+<div class="section">
+  <h2>🏛️ The Kaaba in Mecca</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kaaba_Masjid_Al-Haram_Mecca_Saudi_Arabia.jpg/640px-Kaaba_Masjid_Al-Haram_Mecca_Saudi_Arabia.jpg" alt="Kaaba">
+  <p>The Kaaba is the most sacred place in Islam, located in Mecca. Muslims around the world face it when they pray.</p>
+  <p class="ar">الكعبة هي أقدس مكان في الإسلام، تقع في مكة المكرمة. المسلمون في جميع أنحاء العالم يتوجهون نحوها في صلاتهم.</p>
+</div>
+
+<!-- 🕌 Five Pillars of Islam -->
+<div class="section">
+  <h2>🕌 Five Pillars of Islam | أركان الإسلام الخمسة</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pilares_del_Islam.svg/512px-Pilares_del_Islam.svg.png" alt="Pillars of Islam">
+  <p>1. Shahada (Faith)  
+     2. Salah (Prayer)  
+     3. Zakat (Charity)  
+     4. Sawm (Fasting)  
+     5. Hajj (Pilgrimage)</p>
+  <p class="ar">
+    ١. الشهادة (الإيمان)<br>
+    ٢. الصلاة<br>
+    ٣. الزكاة<br>
+    ٤. الصيام<br>
+    ٥. الحج
+  </p>
+</div>
+
+<!-- 🌙 Ramadan -->
+<div class="section">
+  <h2>🌙 Ramadan | شهر رمضان</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ramadan_Lantern.jpg/640px-Ramadan_Lantern.jpg" alt="Ramadan">
+  <p>Ramadan is the 9th month in the Islamic calendar. Muslims fast from dawn to sunset as an act of worship.</p>
+  <p class="ar">رمضان هو الشهر التاسع في التقويم الهجري. يصوم فيه المسلمون من الفجر حتى المغرب تعبّدًا لله.</p>
+</div>
+
+<!-- 🙏 Prayer Steps -->
+<div class="section">
+  <h2>🙏 Steps of Prayer | خطوات الصلاة</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Muslim_prayer_positions-en.svg/640px-Muslim_prayer_positions-en.svg.png" alt="Prayer Steps">
+  <p>The prayer includes standing, bowing, prostrating, and sitting. It is performed five times a day.</p>
+  <p class="ar">تشمل الصلاة الوقوف، الركوع، السجود، والجلوس. يؤديها المسلم خمس مرات في اليوم.</p>
+</div>
+
+<footer>
+  © 2025 – All rights reserved. | جميع الحقوق محفوظة  
+  <br>
+  Content licensed under  
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
+    CC BY-NC-ND 4.0
+  </a>
+</footer>
+
+</body>
+</html>
